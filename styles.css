@@ -1,0 +1,25 @@
+* {
+box-sizing: border-box;
+}
+body {
+margin: 0;
+font-size: 1em;
+}
+.tabs {
+margin-left: 0;
+position: sticky;
+top: 0;
+}
+button {
+float: left;
+background-color: antiquewhite;
+width: 33%;
+padding: 10px 10px 15px 15px;
+border: 1px hidden;
+text-decoration: none;
+color: black;
+text-align: center;
+}
+.tab-content {
+display: none;
+}
